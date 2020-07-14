@@ -4,7 +4,7 @@ project(fio.contracts)
 
 set(VERSION_MAJOR 1)
 set(VERSION_MINOR 2)
-set(VERSION_PATCH 0)
+set(VERSION_PATCH 4)
 #set(VERSION_SUFFIX 0)
 
 if (VERSION_SUFFIX)
